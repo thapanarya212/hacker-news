@@ -52,5 +52,4 @@ ChromeDriver: Download ChromeDriver from here.
 
 Git: Install Git from here.
 
-outputs
-[![Alt Text](image-url)](images\Screenshot 2025-01-25 000445.png)
+ outputs are in the images folder 
