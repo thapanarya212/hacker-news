@@ -1,9 +1,6 @@
-FrontPage Backend Intern Assignment
-Overview
-This project is a Node.js service that scrapes real-time stories from Hacker News, streams updates to clients via WebSocket, and stores the data in a MySQL database. The service is designed to be scalable, modular, and easy to extend.
+FrontPage Backend Intern Assignment Overview This project is a Node.js service that scrapes real-time stories from Hacker News, streams updates to clients via WebSocket, and stores the data in a MySQL database. The service is designed to be scalable, modular, and easy to extend.
 
-Technologies Used
-Node.js: Runtime environment for the backend service.
+Technologies Used Node.js: Runtime environment for the backend service.
 
 Express.js: Framework for handling HTTP requests and routing.
 
@@ -19,8 +16,7 @@ Cron: For scheduling periodic scraping tasks.
 
 XAMPP: For running the MySQL database locally.
 
-Features
-Scraping Hacker News:
+Features Scraping Hacker News:
 
 Periodically scrapes the Hacker News homepage (https://news.ycombinator.com/) to fetch the latest stories.
 
@@ -42,9 +38,7 @@ REST API:
 
 Provides an endpoint to fetch all stories stored in the database.
 
-Setup Instructions
-Prerequisites
-Node.js: Install Node.js from here.
+Setup Instructions Prerequisites Node.js: Install Node.js from here.
 
 XAMPP: Install XAMPP from here.
 
@@ -52,4 +46,4 @@ ChromeDriver: Download ChromeDriver from here.
 
 Git: Install Git from here.
 
- outputs are in the images folder 
+outputs are in the images folder 
